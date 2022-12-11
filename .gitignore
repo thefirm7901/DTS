@@ -136,3 +136,7 @@ _src
 *.csv
 *.jpg
 *.xlsx
+*.gif
+*.zip
+*.txt
+*.pkl

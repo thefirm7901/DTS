@@ -134,3 +134,5 @@ dmypy.json
 _src
 *.pdf
 *.csv
+*.jpg
+*.xlsx

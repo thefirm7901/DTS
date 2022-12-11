@@ -131,3 +131,5 @@ dmypy.json
 #archivos
 *.mp4
 *.png
+_src
+*.pdf
